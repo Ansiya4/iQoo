@@ -1,0 +1,76 @@
+.setimage{
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 10px;
+}
+.imgsection1{
+    /* background-color: aqua; */
+    width: 100%;
+     height: 400px;
+    display: flex;
+}
+#imgHor1{
+     width: 50%; 
+     height: 380px;
+     background-color: blue;
+     margin-top: 10px;
+     margin-left: 10px;
+}
+#imgHor2{
+     width: 50%; 
+     height: 380px;
+     background-color: blue;
+     margin-top: 10px;
+     margin-left: 10px;
+     margin-right: 10px;
+}
+.img1{
+    width: 100%;
+    height: 380px;
+}
+.imgsection2{
+    /* background-color: aqua; */
+    width: 100%;
+     height: 400px;
+    display: flex;
+}
+#imgHor3{
+    width: 50%; 
+    height: 380px;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#imgHor4{
+    width: 50%; 
+    height: 380px;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img2{
+    width: 100%;
+    height: 380px;
+}
+.imgsection3{
+    /* background-color: aqua; */
+    width: 100%;
+    height: 380px;
+    display: flex;
+}
+#imgHor5{
+    width: 50%; 
+    height: 380px;
+    background-color: rgb(3, 3, 17);
+    /* margin-top: 10px; */
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+#imgHor6{
+    width: 50%; 
+    height: 380px;
+    background-color: rgb(159, 39, 105);
+    margin-left: 10px;
+    /* margin-right: 10px; */
+}

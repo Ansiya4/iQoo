@@ -1,0 +1,41 @@
+button{
+    background-color: black;
+    color: azure;
+}
+#para1{
+    color: green;
+
+}
+#para2{
+    color: indigo;
+}
+.note{
+    color: blue;
+}
+.outer-box  
+{
+    
+        height: 264px;
+        width: 449px;
+        background-color: blueviolet;
+        margin-top: 10%;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding-left: 118px;
+        padding-top: 10px;
+        border: 1px solid;
+        border-color: burlywood;
+    
+
+}
+.inner-id{
+color: aqua;
+background-color: rgb(18, 97, 166);
+margin: 10px;
+width: 200px;
+height: 100px;
+}
+.setColor{
+    color: fuchsia;
+    font-size: large;
+}

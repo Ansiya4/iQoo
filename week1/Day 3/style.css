@@ -1,0 +1,23 @@
+#section1 h1
+{
+    color: blue;
+}
+#section1 h2{
+    color: red;
+}
+#section2 p{
+    color: orange;
+}
+ul li a{
+    color: red;
+}
+div a{
+    color: aqua;
+}
+p{
+    font-size: 10px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    line-height: 27px;
+}
